@@ -3,7 +3,7 @@ body{padding:0; margin:0; color:#535353;}
 .header{background:#313132; display:flex; align-items:center; }
 .header div{width:50%; padding:3px 15px;}
 .mid{text-align:center;}
-.mid img{width:25px;}
+.mid img{width:30px;}
 .right{text-align:right;}
 .right img{width:25px; margin-top:3px;}
 .left img{width:25px; margin-top:5px;}
